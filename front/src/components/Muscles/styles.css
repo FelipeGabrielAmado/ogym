@@ -1,0 +1,45 @@
+.sub-header {
+    border-radius: 20px 20px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2A2F44;
+    color: #78849E;
+}
+
+.sub-header p {
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.muscles img {
+    padding: 10px;
+}
+
+.muscles{
+    background-color: #2A2F44;
+}
+
+.carousel-item {
+    background-color: #363B51;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.carousel-item p{
+    margin: 0;
+}
+
+.react-multi-carousel-list {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    padding: 15px;
+}
